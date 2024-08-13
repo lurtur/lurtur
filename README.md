@@ -4,7 +4,7 @@
 I'm a versatile software developer with a passion for creating innovative solutions across various domains.
 
 My experience spans across:
-- **C++**: Experienced in developing software for embedded systems (medical devices).
+- **C++**: Experienced in developing software for embedded devices (medical devices).
 - **Python**: Experienced in automating tasks to improve efficiency.
 - **Testing**: Hands on experience with Parasoft, GoogleTest.
 
