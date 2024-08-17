@@ -11,6 +11,7 @@ My experience spans across:
 Additionally I have got knowledge in web development by taking trainings on the following stack:
 - **.Net and Angular**: Proficient in building dynamic and robust web applications.
 - **Databases**: Microsoft SQL Server, MySQL.
+
 Note: I do not have formal experience working on web projects. However my development skills for medical devices
 can help me to handle web projects and I have proficiency to write code in C# thanks to self-learning mindset.
 
