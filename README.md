@@ -9,7 +9,7 @@ My experience spans across:
 - **Testing**: Hands on experience with Parasoft, GoogleTest.
 
 Additionally I have got knowledge in web development by taking trainings on the following stack:
-- **.Net and Angular**: Proficient in building dynamic and robust web applications.
+- **.Net and Angular**: Proficiency building web applications.
 - **Databases**: Microsoft SQL Server, MySQL.
 
 Note: I do not have formal experience working on web projects. However my development skills for medical devices
