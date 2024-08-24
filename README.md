@@ -11,6 +11,7 @@ My experience spans across:
 Additionally I have got knowledge in web development by taking trainings on the following stack:
 - **.Net and Angular**: Proficiency building web applications.
 - **Databases**: Microsoft SQL Server, MySQL.
+- **ORM**: Entity Framework Core.
 
 Note: I do not have formal experience working on web projects. However my development skills for medical devices
 can help me to handle web projects and I have proficiency to write code in C# thanks to self-learning mindset.
